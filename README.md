@@ -5,7 +5,7 @@
 - Python 3.6
 - opencv-python
 ## Download Models and Datasets
-- Models and datasets are available at the [Baidu Yun](https://pan.baidu.com/s/1lGNQdZhBm9w_ZhduKVmzJQ)(Password:2022).
+- Models and datasets are available at the [Baidu Yun](https://pan.baidu.com/s/1M3nxvf7BQhuGTHYIJ03Xgg)(Password:2022).
 ## Running Codes
 - 'python eval.py' for the reconstructed hyperspectral results.
 - 'python evaluation.py' for the MRAE and RMSE scores.
