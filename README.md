@@ -1,4 +1,4 @@
-# Residual Augmented Attentional U-Shaped Network for Spectral Reconstruction from RGB Images
+# [Residual Augmented Attentional U-Shaped Network for Spectral Reconstruction from RGB Images](https://www.mdpi.com/2072-4292/13/1/115)
 ## Environment
 - Ubuntu 16
 - Pytorch 1.6.0
